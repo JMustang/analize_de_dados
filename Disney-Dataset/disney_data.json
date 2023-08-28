@@ -91,7 +91,11 @@
       "Paul J. Smith"
     ],
     "Production company": "Walt Disney Productions",
-    "Distributed by": "RKO Radio Pictures",
+    "Distributed by": [
+      "RKO Radio Pictures",
+      "Buena Vista Pictures Distribution, Inc.",
+      "(1993 reissue)"
+    ],
     "Release dates": [
       "February 7, 1940 ( Center Theatre )",
       "February 23, 1940 (United States)"
@@ -332,7 +336,6 @@
       "José Oliveira",
       "Frank Thomas"
     ],
-    "Narrated by": "Fred Shields",
     "Music by": [
       "Paul Smith",
       "Edward H. Plumb"
@@ -598,10 +601,6 @@
       "Billy Gilbert",
       "Anita Gordon"
     ],
-    "Narrated by": [
-      "Dinah Shore ( Bongo )",
-      "Edgar Bergen ( Mickey and the Beanstalk )"
-    ],
     "Edited by": "Jack Bachom",
     "Music by": [
       "Oliver Wallace",
@@ -754,10 +753,6 @@
       "Campbell Grant",
       "Claude Allister",
       "The Rhythmaires"
-    ],
-    "Narrated by": [
-      "Basil Rathbone ( The Wind in the Willows )",
-      "Bing Crosby ( The Legend of Sleepy Hollow )"
     ],
     "Edited by": "John O. Young",
     "Music by": "Oliver Wallace",
@@ -1636,7 +1631,6 @@
       "Taylor Holmes",
       "Bill Thompson"
     ],
-    "Narrated by": "Marvin Miller",
     "Edited by": [
       "Roy M. Brewer Jr.",
       "Donald Halliday"
@@ -1978,7 +1972,6 @@
       "David Frankham",
       "Frederick Worlock"
     ],
-    "Narrated by": "Rod Taylor",
     "Edited by": [
       "Roy M. Brewer, Jr.",
       "Donald Halliday"
@@ -3177,7 +3170,6 @@
       "J. Pat O'Malley",
       "Bruce Reitherman"
     ],
-    "Narrated by": "Sebastian Cabot",
     "Edited by": [
       "Tom Acosta",
       "Norman Carlisle"
@@ -3753,7 +3745,6 @@
     "Starring": [
       "Angela Lansbury",
       "David Tomlinson",
-      "John Ericson",
       "Ian Weighill",
       "Cindy O'Callaghan",
       "Roy Snart"
@@ -5720,7 +5711,6 @@
       "Phil Fondacaro",
       "John Hurt"
     ],
-    "Narrated by": "John Huston",
     "Edited by": [
       "James Melton",
       "Jim Koford",
@@ -6313,7 +6303,7 @@
       "English"
     ],
     "Budget": "60 million Norwegian Kroner (around $8.7 million in 1989)",
-    "Box office": "$15.1 million"
+    "Box office": "$17 million (Norway/USA)"
   },
   {
     "title": "Wild Hearts Can't Be Broken",
@@ -7114,7 +7104,6 @@
       "Joe Ranft",
       "Francis Glebas"
     ],
-    "Based on": "William Shakespeare's Hamlet",
     "Produced by": "Don Hahn",
     "Starring": [
       "Jonathan Taylor Thomas",
@@ -8146,10 +8135,7 @@
       "November 27, 1996 (United States)"
     ],
     "Running time": "103 minutes",
-    "Country": [
-      "United States",
-      "Alebia"
-    ],
+    "Country": "United States",
     "Language": "English",
     "Budget": "$67 million",
     "Box office": "$320.7 million"
@@ -8959,8 +8945,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release dates": [
-      "November 14, 1998 ( El Capitan Theatre )",
-      "November 20, 1998 (North America)"
+      "November 14, 1998 (Premiere)",
+      "November 20, 1998 (Los Angeles)"
     ],
     "Running time": "95 minutes",
     "Country": "United States",
@@ -9686,7 +9672,7 @@
     "Box office": "$349.8 million"
   },
   {
-    "title": "Disney's The Kid",
+    "title": "The Kid",
     "Directed by": "Jon Turteltaub",
     "Written by": "Audrey Wells",
     "Produced by": [
@@ -10409,8 +10395,8 @@
     "Distributed by": [
       "Walt Disney Home Entertainment"
     ],
-    "Release date": [
-      "March 19, 2002"
+    "Release dates": [
+      "March 19, 2002 (Disney DVD and video)"
     ],
     "Running time": "68 minutes",
     "Country": "United States",
@@ -12005,7 +11991,8 @@
     "Directed by": "Jon Turteltaub",
     "Screenplay by": [
       "Jim Kouf",
-      "Cormac Wibberley Marianne Wibberley"
+      "Cormac Wibberley",
+      "Marianne Wibberley"
     ],
     "Story by": [
       "Jim Kouf",
@@ -13814,7 +13801,7 @@
       "June 23, 2008 ( Greek Theatre )",
       "June 27, 2008 (United States)"
     ],
-    "Running time": "93 minutes",
+    "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$180 million",
@@ -15592,7 +15579,6 @@
       "Wyatt Dean Hall",
       "Huell Howser"
     ],
-    "Narrated by": "John Cleese",
     "Cinematography": [
       "Julio Macat",
       "(live-action scenes)"
@@ -18215,6 +18201,7 @@
       "Allison Schroeder"
     ],
     "Story by": [
+      "Max Landis (uncredited)",
       "Greg Brooker",
       "Mark Steven Johnson"
     ],
@@ -18589,7 +18576,7 @@
     "Directed by": "Jon Favreau",
     "Screenplay by": "Jeff Nathanson",
     "Based on": [
-      "Disney 's The Lion King by Irene Mecchi Jonathan Roberts Linda Woolverton"
+      "Disney 's The Lion King by Irene Mecchi Jonathan Roberts Linda Woolverton Hamlet by William Shakespeare"
     ],
     "Produced by": [
       "Jon Favreau",
@@ -19319,7 +19306,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$70 million"
+    "Box office": "$69.9 million"
   },
   {
     "title": "Godmothered",
@@ -19652,7 +19639,7 @@
     "Running time": "134 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100–200 million",
+    "Budget": "$100 million",
     "Box office": "$233.5  million"
   },
   {
@@ -20705,7 +20692,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$250–265 million",
-    "Box office": "$567.5 million"
+    "Box office": "$569.6 million"
   },
   {
     "title": "Elemental",
@@ -20752,7 +20739,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$458.3 million"
+    "Box office": "$468.5 million"
   },
   {
     "title": "World's Best",
@@ -20837,7 +20824,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$295–300 million",
-    "Box office": "$376 million"
+    "Box office": "$379.1 million"
   },
   {
     "title": "Haunted Mansion",
@@ -20877,8 +20864,8 @@
     "Running time": "123 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$157 million",
-    "Box office": "$85.2 million"
+    "Budget": "$150–157.8 million",
+    "Box office": "$91.7 million"
   },
   {
     "title": "Wish",
@@ -20977,7 +20964,7 @@
     ],
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100-150 million"
+    "Budget": "$100 million"
   },
   {
     "title": "Inside Out",
@@ -21032,7 +21019,7 @@
     "Directed by": "Jon Favreau",
     "Screenplay by": "Jeff Nathanson",
     "Based on": [
-      "Disney 's The Lion King by Irene Mecchi Jonathan Roberts Linda Woolverton"
+      "Disney 's The Lion King by Irene Mecchi Jonathan Roberts Linda Woolverton Hamlet by William Shakespeare"
     ],
     "Produced by": [
       "Jon Favreau",
