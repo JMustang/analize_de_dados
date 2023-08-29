@@ -4311,6 +4311,7 @@
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
+    "Directed by": "James Algar",
     "Written by": [
       "James Algar",
       "Winston Hibler",
@@ -9069,10 +9070,7 @@
       "Christopher Gee"
     ],
     "Music by": "Mark Watters",
-    "Production companies": [
-      "Jumbo Pictures",
-      "Plus One Animation"
-    ],
+    "Production company": "Jumbo Pictures",
     "Distributed by": "Buena Vista Pictures Distribution ",
     "Release date": [
       "March 26, 1999"
@@ -9572,8 +9570,8 @@
       "Walt Disney Television Animation"
     ],
     "Distributed by": "Walt Disney Home Video",
-    "Release date": [
-      "February 29, 2000"
+    "Release dates": [
+      "February 29, 2000 (Disney DVD and video)"
     ],
     "Running time": "79 minutes",
     "Countries": [
@@ -11147,7 +11145,8 @@
       "Ellen DeGeneres",
       "Alexander Gould",
       "Willem Dafoe",
-      "Geoffrey Rush"
+      "Geoffrey Rush",
+      "Bill Hunter"
     ],
     "Cinematography": [
       "Sharon Calahan",
@@ -11568,8 +11567,8 @@
     "Music by": "Don L. Harper",
     "Production company": "Disneytoon Studios",
     "Distributed by": "Walt Disney Home Entertainment",
-    "Release date": [
-      "February 10, 2004"
+    "Release dates": [
+      "February 10, 2004 (Disney DVD and video)"
     ],
     "Running time": "78 minutes",
     "Country": "United States",
@@ -13135,6 +13134,44 @@
     "Language": "English"
   },
   {
+    "title": "The Nightmare Before Christmas",
+    "Directed by": "Henry Selick",
+    "Screenplay by": "Caroline Thompson\n",
+    "Adaptation by": "Michael McDowell",
+    "Story by": "Tim Burton",
+    "Produced by": [
+      "Tim Burton",
+      "Denise Di Novi"
+    ],
+    "Starring": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara",
+      "William Hickey",
+      "Glenn Shadix",
+      "Paul Reubens",
+      "Ken Page",
+      "Ed Ivory"
+    ],
+    "Cinematography": "Pete Kozachik",
+    "Edited by": "Stan Webb",
+    "Music by": "Danny Elfman",
+    "Production companies": [
+      "Touchstone Pictures",
+      "Skellington Productions"
+    ],
+    "Distributed by": "Buena Vista Pictures Distribution",
+    "Release dates": [
+      "October 13, 1993 (limited)",
+      "October 29, 1993 (United States)"
+    ],
+    "Running time": "76 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$24 million",
+    "Box office": "$91.5 million"
+  },
+  {
     "title": "The Santa Clause 3: The Escape Clause",
     "Directed by": "Michael Lembeck",
     "Written by": [
@@ -13333,7 +13370,7 @@
       "March 23, 2007 (United Kingdom)",
       "March 30, 2007 (United States)"
     ],
-    "Running time": "94 minutes",
+    "Running time": "90 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
@@ -13429,6 +13466,50 @@
     "Language": "English",
     "Budget": "$150 million",
     "Box office": "$623.7 million"
+  },
+  {
+    "title": "The Secret of the Magic Gourd",
+    "Traditional Chinese": "",
+    "Simplified Chinese": "",
+    "Directed by": [
+      "John Chu",
+      "Frankie Chung"
+    ],
+    "Written by": "Zhang Tianyi",
+    "Screenplay by": [
+      "John Chu",
+      "Lam Kee To"
+    ],
+    "Produced by": [
+      "Han San Ping",
+      "John Chu"
+    ],
+    "Edited by": "Angie Lam",
+    "Music by": [
+      "Zhang Hanyun - \"One Dream\"",
+      "張含韻《一人一夢》(Simplified Chinese)"
+    ],
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Centro Digital Pictures Limited"
+    ],
+    "Distributed by": [
+      "Buena Vista International",
+      "(under permission from",
+      "China Film Group",
+      ")"
+    ],
+    "Release dates": [
+      "June 29, 2007 (China)",
+      "January 26, 2009 (United States)"
+    ],
+    "Running time": "85 minutes",
+    "Country": "China",
+    "Languages": [
+      "English (U.S. release)",
+      "Chinese"
+    ],
+    "Box office": "3 130 137 "
   },
   {
     "title": "Underdog",
@@ -15218,6 +15299,44 @@
     "Box office": "$400.1 million"
   },
   {
+    "title": "Once Upon a Warrior",
+    "Original title": "Anaganaga O Dheerudu",
+    "Directed by": "Prakash Kovelamudi",
+    "Written by": "Prakash Kovelamudi",
+    "Produced by": [
+      "Prakash Kovelamudi",
+      "Prasad Devineni"
+    ],
+    "Starring": [
+      "Siddharth",
+      "Shruti Haasan",
+      "Lakshmi Manchu",
+      "Baby Harshitha"
+    ],
+    "Cinematography": "Soundarrajan",
+    "Edited by": "Shravan Katikaneni",
+    "Music by": [
+      "Songs:",
+      "Salim–Sulaiman",
+      "Mickey J. Meyer",
+      "Koti",
+      "M. M. Keeravani",
+      "Background Score:",
+      "Salim–Sulaiman"
+    ],
+    "Production companies": [
+      "Walt Disney Pictures",
+      "A Bellyful of Dreams Entertainment"
+    ],
+    "Distributed by": "UTV Motion Pictures",
+    "Release date": [
+      "14 January 2011 (India)"
+    ],
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": ""
+  },
+  {
     "title": "Beverly Hills Chihuahua 2",
     "Directed by": "Alex Zamm",
     "Written by": [
@@ -15774,8 +15893,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": [
-      "$306.6 million (gross)",
-      "$263.7 million (net)"
+      "$306.6 million"
     ],
     "Box office": "$284.1 million"
   },
@@ -17410,6 +17528,47 @@
     "Box office": "$966.6 million"
   },
   {
+    "title": "Tini: The Movie",
+    "Directed by": "Juan Pablo Buscarini",
+    "Written by": "Ramón Salazar",
+    "Produced by": "Pablo Bossi",
+    "Starring": [
+      "Martina Stoessel",
+      "Jorge Blanco",
+      "Mercedes Lambre",
+      "Clara Alonso",
+      "Adrián Salzedo",
+      "Diego Ramos",
+      "Sofia Carson",
+      "Ángela Molina"
+    ],
+    "Cinematography": "Josu Inchaustegui",
+    "Edited by": "Pablo Mari",
+    "Music by": "Federico Jusid",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Buena Vista International Latin America",
+      "The Walt Disney Company Latin America",
+      "Gloriamundi Producciones",
+      "Lapis Film"
+    ],
+    "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Release dates": [
+      "April 23, 2016 (Amsterdam)",
+      "May 6, 2016 (Spain)",
+      "May 12, 2016 (Italy)",
+      "June 2, 2016 (Argentina)"
+    ],
+    "Running time": "99 minutes",
+    "Countries": [
+      "Argentina",
+      "Spain",
+      "Italy"
+    ],
+    "Language": "Spanish",
+    "Box office": "$17 million"
+  },
+  {
     "title": "Alice Through the Looking Glass",
     "Directed by": "James Bobin",
     "Written by": "Linda Woolverton",
@@ -17543,14 +17702,10 @@
     "Release dates": [
       "May 14, 2016 ( Cannes )",
       "July 1, 2016 (United States)",
-      "July 22, 2016 (United Kingdom)",
-      "July 29, 2016 (India)"
+      "July 22, 2016 (United Kingdom)"
     ],
     "Running time": "118 minutes",
-    "Countries": [
-      "United States",
-      "India"
-    ],
+    "Country": "United States",
     "Language": "English",
     "Budget": "$140 million",
     "Box office": "$195.2 million"
@@ -17829,6 +17984,59 @@
     "Language": "English",
     "Budget": "$160–255million",
     "Box office": "$1.266billion"
+  },
+  {
+    "title": "Born in China",
+    "Traditional Chinese": "",
+    "Simplified Chinese": "",
+    "Directed by": "Lu Chuan",
+    "Screenplay by": [
+      "David Fowler",
+      "Brian Leith",
+      "Phil Chapman",
+      "Lu Chuan"
+    ],
+    "Produced by": [
+      "Roy Conli",
+      "Brian Leith",
+      "Phil Chapman"
+    ],
+    "Narrated by": [
+      "John Krasinski",
+      "Zhou Xun",
+      "Claire Keim"
+    ],
+    "Edited by": "Matthew Meech",
+    "Music by": "Barnaby Taylor",
+    "Production companies": [
+      "Disneynature",
+      "Shanghai Media Group",
+      "Chuan Films",
+      "Brian Leith Productions"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios Motion Pictures",
+      "Shanghai Media Group",
+      "(China)"
+    ],
+    "Release dates": [
+      "August 12, 2016 (China)",
+      "April 21, 2017 (United States)",
+      "August 23, 2017 (France)"
+    ],
+    "Running time": "76 minutes",
+    "Countries": [
+      "United States",
+      "China",
+      "France"
+    ],
+    "Languages": [
+      "English",
+      "Mandarin",
+      "French"
+    ],
+    "Budget": "$5–10 million",
+    "Box office": "$25.1 million"
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -18201,7 +18409,6 @@
       "Allison Schroeder"
     ],
     "Story by": [
-      "Max Landis (uncredited)",
       "Greg Brooker",
       "Mark Steven Johnson"
     ],
@@ -20692,7 +20899,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$250–265 million",
-    "Box office": "$569.6 million"
+    "Box office": "$569.7 million"
   },
   {
     "title": "Elemental",
@@ -20739,7 +20946,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$468.5 million"
+    "Box office": "$469.4 million"
   },
   {
     "title": "World's Best",
@@ -20824,7 +21031,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$295–300 million",
-    "Box office": "$379.1 million"
+    "Box office": "$379.2 million"
   },
   {
     "title": "Haunted Mansion",
@@ -21119,6 +21326,7 @@
   },
   {
     "title": "Young Woman and the Sea",
+    "Directed by": "Joachim Rønning",
     "Screenplay by": "Jeff Nathanson",
     "Based on": [
       "Young Woman and the Sea: How Trudy Ederle Conquered the English Channel and Inspired the World",
@@ -21188,6 +21396,7 @@
   },
   {
     "title": "Lilo & Stitch",
+    "Directed by": "Dean Fleischer Camp",
     "Written by": "Chris Kekaniokalani Bright",
     "Based on": [
       "Chris Sanders",
